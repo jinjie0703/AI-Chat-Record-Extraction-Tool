@@ -100,8 +100,6 @@ This project is licensed under the [MIT](LICENSE.txt) License.
 * `--output, -o`: 用于存放转换后文件的目录路径。
 * `--format, -f`: 您希望转换的目标格式 (`txt`, `md`, `json`)。
 
-</details>
-
 * * *
 
 ### 如何贡献
@@ -117,3 +115,5 @@ This project is licensed under the [MIT](LICENSE.txt) License.
 ### 许可证
 
 本项目采用 [MIT](LICENSE.txt) 许可证。
+
+</details>
