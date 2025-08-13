@@ -13,9 +13,6 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
-    <Filter Include="scripts">
-      <UniqueIdentifier>{bc0488ae-4f66-4fd9-b587-fa51331870cc}</UniqueIdentifier>
-    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp">
@@ -23,11 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\add_extension.py">
-      <Filter>scripts</Filter>
-    </None>
-    <None Include="..\batch_converter.py">
-      <Filter>scripts</Filter>
-    </None>
+    <None Include="scripts\add_extension.py" />
+    <None Include="scripts\batch_converter.py" />
   </ItemGroup>
 </Project>

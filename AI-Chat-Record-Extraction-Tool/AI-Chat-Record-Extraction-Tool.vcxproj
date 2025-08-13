@@ -126,8 +126,8 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\add_extension.py" />
-    <None Include="..\batch_converter.py" />
+    <None Include="scripts\add_extension.py" />
+    <None Include="scripts\batch_converter.py" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
