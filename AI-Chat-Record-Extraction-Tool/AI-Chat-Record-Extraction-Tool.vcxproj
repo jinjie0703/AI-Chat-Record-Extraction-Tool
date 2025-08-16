@@ -129,6 +129,12 @@
   <ItemGroup>
     <None Include="scripts\add_extension.py" />
     <None Include="scripts\batch_converter.py" />
+    <None Include="scripts\chatgpt_converter.py" />
+    <None Include="scripts\deepseek_converter.py" />
+    <None Include="scripts\google_converter.py" />
+    <None Include="scripts\keyword_search.py" />
+    <None Include="scripts\qwen_converter.py" />
+    <None Include="scripts\rename_files.py" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
